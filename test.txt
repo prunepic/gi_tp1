@@ -1,0 +1,4 @@
+On a créé une nouvelle branche de developement dans laquelle on a déplacé 
+le fichier contenant les noms prénoms en ayant ajouté un suivi par git de ce 
+fichier pour ensuite faire un enregistrement du fichier dans la branche courante
+(mon_fichier).
